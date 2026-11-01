@@ -14,6 +14,16 @@
 
 ---
 
+## 下载（GitHub Release）
+
+不想 clone 仓库的话，可以直接下载现成安装包：
+
+👉 **<https://github.com/Worril-224/GameController-macOS-Windows/releases/tag/v7.0.0-rc.3>**
+
+- macOS：`GameController-7.0.0-rc.3.dmg`（Universal，macOS 12.6+）
+- Windows：`GameController-7.0.0-rc.3-x86_64-pc-windows-msvc.zip`（x64）
+- 校验：`SHA256SUMS.txt`
+
 ## 快速开始
 
 ### Windows 10 / 11 (x64)
