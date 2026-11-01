@@ -1,0 +1,2 @@
+260fdd092d9dc7ae280e447a12018a7d4c474fa22c823b458797788601267a08  macos/GameController-7.0.0-rc.3.dmg
+5a9f36b9ae968554d0dcd9264b9ba4a40bc9ecdac7f38b29d517b321a597cbb8  windows/GameController-7.0.0-rc.3-x86_64-pc-windows-msvc/target/release/game_controller_app.exe

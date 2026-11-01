@@ -1,0 +1,7 @@
+# 默认按文本处理，但保留 Windows 发行包内的原始字节（config 为 CRLF）
+* text=auto
+windows/** -text
+*.exe binary
+*.dmg binary
+*.zip binary
+*.icns binary
